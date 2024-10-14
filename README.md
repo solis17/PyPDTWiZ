@@ -11,8 +11,7 @@ This repository includes a standalone Graphical User Interface (GUI) application
 ## Irradiation Instrument System
 An irradiation instrument (Figure 1) was created for photodynamic therapy studies. The instrument comprises two “WiZ” LED full colour bulbs (Figure 2) with a wire and a plug so that it can be connected to the electric supply. It also has a light diffusor making the light to be evenly scattered across  the cell culture plate.
 
-![image](https://github.com/user-attachments/assets/3eee8e58-0e5a-485c-88e3-7c81ca58dde6) ![image](https://github.com/user-attachments/assets/c0be7d3a-ca7c-4e48-a063-70ae5fee3cba)
-
+![image](https://github.com/user-attachments/assets/3eee8e58-0e5a-485c-88e3-7c81ca58dde6,https://github.com/user-attachments/assets/dcbf445b-4aef-4c54-af02-c9236294bc36)
 
 
 ## GUI application
