@@ -9,15 +9,10 @@ This repository includes a standalone Graphical User Interface (GUI) application
 - PyQt5
 
 ## Irradiation Instrument System
-An irradiation instrument (Figure 1) was created for photodynamic therapy studies. The instrument comprises two “WiZ” LED full colour bulbs (Figure 2) with a wire and a plug so that it can be connected to the electric supply. It also has a light diffusor making the light to be evenly scattered across  the cell culture plate.
+An irradiation instrument (Figure 1 - left) was created for photodynamic therapy studies. The instrument comprises two “WiZ” LED full colour bulbs (Figure 1 - right) with a wire and a plug so that it can be connected to the electric supply. It also has a light diffusor making the light to be evenly scattered across  the cell culture plate.
 
-![image-removebg-preview (13)](https://github.com/user-attachments/assets/018ecf1b-0b22-48f3-bcae-d56511da7c1f)
-
-
-![image-removebg-preview (12)](https://github.com/user-attachments/assets/21b32235-6bb7-4a3e-a1da-8ebb03921051)
-
-
-Figure 2. WiZ LED lamp candle B12 E12
+![image](https://github.com/user-attachments/assets/6aa4bf9c-0b79-42c8-bb25-59605f89403d)
+Figure 1. Irradiation Instrument. (Left) System, and (Right) WiZ LED lamp candle B12 E12.
 
 
 
