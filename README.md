@@ -17,6 +17,7 @@ Figure 1. Irradiation Instrument. (Left) System, and (Right) WiZ LED lamp candle
 
 ## GUI application
 Firstly, we implemented a Python command-line interface (CLI) that emulated the WiZ mobile phone app, using "pywizlight", a Python connector for WiZ. Although being functional, this text-based program was not very intuitive or user-friendly and quite limited regarding the routines defined for the lamp. The solution was to convert it into a GUI with the Python’s library “PyQt5”. This tool allowed us to create a visual representation of the software in which the user could easily interact through clickable icons. 
+It is important to note that there is still a dependence on the “WiZ” app. The lamps we are using must be connected to the app and share the same Wi-Fi network with the computer that runs the program. Only then, the IP address can be provided. Unfortunately, the app does not support 5GHz Wi-Fi or open networks without password protection, and thus cannot be used with our application.
 After designing and achieving a working and user-friendly GUI program, it was crucial to make it optimal for future phototherapy studies. This meant analysing the instrument’s characteristics to find the relation between the levels of brightness and colour of the lamps and the wavelength and energy of the irradiated light, which is explained in the pdf document of this repository.
 
 ![image](https://github.com/user-attachments/assets/9d500e97-f198-4678-ab58-7af259db999d)
